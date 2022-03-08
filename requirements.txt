@@ -1,0 +1,4 @@
+tmdbv3api
+Flask
+Flask-RESTful
+flask_httpauth
